@@ -2,7 +2,7 @@ User Space vs. Kernel Space & System Calls
 Process Lifecycle & State Machine
 Linux Signals & Execution Control
 Linux Namespaces (Process Isolation)
-Control Groups (cgroups v1 / v2)
+Control Groups (cgroups v1 / v2) # till now topic are completed 
 Virtual Memory, Page Cache & The OOM Killer
 7. Storage Subsystem, Inodes & VFS
 File Descriptors & System Limits
